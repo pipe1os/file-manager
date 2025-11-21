@@ -2,7 +2,7 @@
 
 Just a simple Python script I wrote to practice working with files and the OS module. It helps you clean up messy folders and see where all your hard drive space is going.
 
-##What it does
+## What it does
 
 1. Top 10 Folders: Shows you which folders are taking up the most space.
 
