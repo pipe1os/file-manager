@@ -31,4 +31,4 @@ pytest test_file_manager.py
 
 ## Note
 
-Be careful with the "Organize" option because it actually moves your files. If something already exists in the destination it renames the incoming file (`image_1.jpg`, `image_2.jpg`, etc.) so nothing gets overwritten. Still, double-check the path before hitting 'y'. I mostly use it on my Downloads folder to nuke the clutter.
+Be careful with the "Organize" option because it actually moves your files. If something already exists in the destination it renames the incoming file (`image_1.jpg`, `image_2.jpg`, etc.) so nothing gets overwritten. Still, double-check the path before hitting 'y'. I mostly use it on my downloads folder.
